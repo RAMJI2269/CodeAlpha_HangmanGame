@@ -29,7 +29,9 @@ The player can make a maximum of 6 incorrect guesses.
 3. Open a terminal in the project folder.
 4. Run the following command:
 
-   
+```bash
+python hangman.py
+```
 
 ## 🎯 How to Play
 1. Run the program.
